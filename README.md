@@ -1,4 +1,4 @@
-# 🛰️ SegFormer-B3: Semantic Segmentation
+# SegFormer-B3: Semantic Segmentation
 
 ## 🎯 Project Overview
 
