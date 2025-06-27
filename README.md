@@ -2,7 +2,7 @@
 
 ## 🎯 Project Overview
 
-This project delivers a **from-scratch implementation** of **SegFormer-B3**, a cutting-edge transformer-based model designed for semantic segmentation. Developed entirely in **PyTorch**, the project is structured to support both research exploration and real-world deployment.
+This project delivers a **from-scratch implementation** of **SegFormer-B3**, a cutting-edge transformer-based model designed for semantic segmentation. Developed entirely in **PyTorch**.
 
 **Key Highlights:**
 - 🛠️ **Custom SegFormer-B3 architecture** built from the ground up  
