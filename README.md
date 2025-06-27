@@ -1,4 +1,4 @@
-# 🛰️ SegFormer-B3: Semantic Segmentation from Scratch in PyTorch
+# 🛰️ SegFormer-B3: Semantic Segmentation
 
 ## 🎯 Project Overview
 
